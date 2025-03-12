@@ -1,0 +1,26 @@
+# Ignore vendor directory
+/vendor/
+
+# Ignore cloned words repository
+/words/
+
+# Ignore composer.lock
+composer.lock
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
