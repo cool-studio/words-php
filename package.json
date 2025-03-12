@@ -1,0 +1,7 @@
+{
+  "name": "words-php",
+  "dependencies": {},
+  "scripts": {
+    "generate": "node generate.js"
+  }
+}
